@@ -6,29 +6,7 @@ import {TabNavigator, StackNavigator } from 'react-navigation';
 import NavBar from './components/navBar.js'
 import Tabs from './components/tab.js'
 
-/*
-var MainScreenNavigator = TabNavigator({
-  Tab1: {screen:Test},
-  Tab2: {screen:Test2}
-},{
-  tabBarPosition: 'bottom',
-//  swipeEnabled: true
-  tabBarOptions:{
-    activeTintColor:'white',
-    activateBackgroundColor: 'darkgreen',
-    inactiveTintColor:'black',
-    inactiveBackgroundColor: 'green',
-    lableStyle:{
-      fontSize:20,
-      padding:10
-    }
-  }
-});
 
-MainScreenNavigator.navigationOptions={
-  title:"Tab example"
-};
-export default MainScreenNavigator;*/
 class User extends Component {
   render() {
     return(
