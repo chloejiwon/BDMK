@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 186 159" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-863,-542)">
+        <g id="timeline" transform="matrix(1,0,0,1,55.1689,21.3832)">
+            <g transform="matrix(0.94709,0,0,0.94709,53.328,50.6878)">
+                <path d="M800,500L800,560L834,580L800,600L800,660" style="fill:none;stroke:black;stroke-width:6.34px;"/>
+            </g>
+            <g transform="matrix(0.94709,0,0,0.94709,42.9101,50.6878)">
+                <rect x="860" y="520" width="140" height="120" style="fill:none;stroke:black;stroke-width:6.34px;"/>
+            </g>
+        </g>
+    </g>
+</svg>
